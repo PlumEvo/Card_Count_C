@@ -1,8 +1,8 @@
 #Card Counting Program using C programming 
 
 What does this program do ?
-Basically card counting is a way of improving the odds when you play blackjack. In blackjack, if there are plenty of high-value cards left in
-the shoe, then the odds are slanted in favor of the player.
+Basically card counting is a way of improving the odds when you play blackjack. In blackjack, 
+if there are plenty of high-value cards left in the shoe, then the odds are slanted in favor of the player.
 
 Card counting helps you keep track of the number of high-value cards left. Say you start with a count of 0.
 
